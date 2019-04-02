@@ -1,0 +1,28 @@
+.gamefield{
+   
+    border: 2px solid gray;
+    width: 400px;
+    height: 400px;
+
+  
+    transition: width .5s, height .5s, top .5s, left .5s;
+}
+
+.container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px;
+    margin-top: 200px;
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #254372;
+
+  
+    
+}
+.btn.btn-primary{
+  line-height: 50px;
+  border-radius: 0px;
+}
